@@ -2,4 +2,6 @@ Esta asignatura es ing de Software II
 
 es del semestre 2023-II en el año 2024
 
-estamoa aprendiendo git
+estamos aprendiendo git
+
+esto esta aburrido o interesante
